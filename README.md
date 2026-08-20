@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohit-kumar120&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Mohit-kumar120">
     <img src="https://komarev.com/ghpvc/?username=Mohit-kumar120&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
@@ -122,4 +126,67 @@ A full-stack application combining a modern frontend with backend services and d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit-kumar120&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-kumar120&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohit-kumar120/Mohit-kumar120/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohit-kumar120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🎓 Certifications & Learning
+
+### 🔐 Cybersecurity
+- 🛡️ Cybersecurity Fundamentals
+- 🔍 Ethical Hacking & Vulnerability Assessment
+- 🌐 Network Security
+- 🕵️ Digital Forensics
+
+### 💻 Software Development
+- ⚛️ React & Frontend Development
+- 🌐 MERN Stack Development
+- ☕ Java & Spring Boot
+- 🐍 Python Development
+
+### 🤖 Artificial Intelligence
+- 🧠 AI/ML Fundamentals
+- 🤖 Generative AI & LLM Applications
+- 🔎 AI-powered Application Development
+
+### 🗄️ Core Computer Science
+- 🗃️ Database Management Systems
+- ⚙️ Operating Systems
+- 🧮 Data Structures & Algorithms
+- 🌐 Computer Networks
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohit-kumar-b471b4300/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:mohitkumar.mamta99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/Mohit-kumar120">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
 </p>
