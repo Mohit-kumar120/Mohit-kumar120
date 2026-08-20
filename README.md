@@ -142,14 +142,6 @@ A full-stack application combining a modern frontend with backend services and d
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohit-kumar120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
 ## 🎓 Certifications & Learning
 
 ### 🔐 Cybersecurity
