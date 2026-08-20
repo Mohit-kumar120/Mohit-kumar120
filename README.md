@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=50">
+</p>
 <h1 align="center">👋 Hi, I'm Mohit Kumar</h1>
 
 <h3 align="center">
