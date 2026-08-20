@@ -124,13 +124,14 @@ A full-stack application combining a modern frontend with backend services and d
 
 **Tech:** React • Node.js • MongoDB • Java • Spring Boot
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-kumar120&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-kumar120&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
 </p>
-
 ---
 
 ## 🐍 My Contribution Snake
